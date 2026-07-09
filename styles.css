@@ -296,3 +296,17 @@ h3 {
   html { scroll-behavior: auto; }
   .button { transition: none; }
 }
+
+.product-frame {
+  border: 1px solid rgba(229, 214, 184, 0.14);
+  border-radius: 28px;
+  padding: 0.65rem;
+  background: rgba(10, 9, 7, 0.72);
+  box-shadow: 0 24px 90px rgba(0, 0, 0, 0.45);
+}
+
+.product-shot {
+  display: block;
+  width: 100%;
+  border-radius: 20px;
+}
